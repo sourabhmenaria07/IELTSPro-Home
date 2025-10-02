@@ -4,8 +4,6 @@ This is the home page for **IELTS Pro**, built as a personal project to demonstr
 
 ## Live Demo
 
-## Live Demo
-
 [https://ielts-pro-nine.vercel.app](https://ielts-pro-nine.vercel.app)
 
 ## Features & Highlights
