@@ -4,7 +4,16 @@ This is the home page for **IELTS Pro**, built as a personal project to demonstr
 
 ## Live Demo
 
-_(Optional: add a link if deployed, e.g., Netlify, Vercel)_
+## Live Demo
+
+[https://ielts-pro-nine.vercel.app](https://ielts-pro-nine.vercel.app)
+
+## Features & Highlights
+
+- **Responsive Design:** Works seamlessly on mobile, tablet, and desktop.
+- **Smooth Scroll:** Navigation supports smooth scrolling between sections for a better user experience.
+- **Active Menu Highlight:** Menu items update dynamically as users scroll through the page.
+- **Mobile-Friendly Navigation:** Includes a toggleable menu button for easy access on smaller screens.
 
 ## Features & Highlights
 
@@ -33,8 +42,16 @@ _(Optional: add a link if deployed, e.g., Netlify, Vercel)_
    ```
 
 2. **Install dependencies:**
+
+   ```bash
    npm install
 
+   ```
+
 3. **Run the development server:**
+
+   ```bash
    npm start
    Open http://localhost:3000 in your browser.
+
+   ```
